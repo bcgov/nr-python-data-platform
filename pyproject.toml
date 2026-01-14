@@ -6,10 +6,6 @@ version = "0.1.0"
 description = "Shared components for data platform: db, logging, config"
 readme = "README.md"
 requires-python = ">=3.9"
-license = { text = "MIT" }
-authors = [{ name = "Ting Ouyang" }]
-
-# If you publish to PyPI later, add classifiers, urls, etc.
 
 dependencies = [
   # put runtime deps here, or keep them in requirements.txt if you prefer
