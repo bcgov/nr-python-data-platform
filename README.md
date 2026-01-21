@@ -22,7 +22,7 @@ data_platform/
 ├── db/
 │ ├── db_connection.py
 │ └── executor.py
-└── logging/
+└── app_logging/
   └── logger.py
 
 ##  How to use this library
